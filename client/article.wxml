@@ -1,3 +1,5 @@
 <!--article.wxml-->
 <view class='title'>{{article.title}}</view>
 <view class='content'>{{article.content}}</view>
+<view class='edit'><image class='pic' src='{{article.pic}}'></image>{{article.name}}</view>
+<view class='edit'>{{article.time}}</view>

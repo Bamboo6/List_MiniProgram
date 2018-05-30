@@ -13,3 +13,17 @@
   padding: 50rpx;
   text-align: left;
 }
+
+.edit {
+  background-color: lightseagreen;
+  font-size: 50rpx;
+  padding: 50rpx;
+  text-align: center;
+}
+
+.pic{
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}

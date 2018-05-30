@@ -4,3 +4,6 @@
   background-color: lightblue;
   font-size: 60rpx;
 }
+.btn{
+  flex: 1;
+}

@@ -1,0 +1,17 @@
+/* add.wxss */
+.page{
+  margin: 0rpx 50rpx 50rpx 50rpx;
+}
+.btn{
+  flex: 1;
+}
+.input{
+  flex: 2.9;
+  text-align: left;
+  background-color: lightblue;
+}
+.bottom{
+  display: flex;
+  flex-direction: row;
+  background-color: yellow;
+}

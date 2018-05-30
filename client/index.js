@@ -35,6 +35,13 @@ Page({
     })
   },
 
+  // 跳转
+  jump: function (e) {
+    wx.navigateTo({
+      url: '../add'
+    })
+  },
+
   // 到底部更新
   onReachBottom: function (){
     var that = this

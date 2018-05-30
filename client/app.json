@@ -1,7 +1,8 @@
 {
   "pages":[
     "index",
-    "article"
+    "article",
+    "add"
   ],
   "window":{
     "backgroundTextStyle":"light",
